@@ -1,0 +1,9 @@
+/* Mantine handles the design system; only a couple of global touches here. */
+body {
+  margin: 0;
+}
+
+/* native date input picker icon readable on dark inputs */
+input[type="date"] {
+  color-scheme: dark;
+}
